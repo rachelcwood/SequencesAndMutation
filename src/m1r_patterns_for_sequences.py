@@ -13,11 +13,10 @@ Of course, these are not the only patterns, and some problems require
 combining these patterns, but this is a good base upon which to build.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
-
-# ----------------------------------------------------------------------
-# TODO: 2. SKIM the program below and RUN it.
+         their colleagues and Rachel Wood.
+"""  # DONE 1
+#----------------------------------------------------------------------
+# DONE 2
 #
 #   Then look more closely at the CODE for:
 #     -- find_example1
@@ -36,7 +35,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 #     -- TWO-PLACES-AT-ONCE, and
 #     -- TWO-SEQUENCES-IN-PARALLEL
 #   then:
-#      change the above TODO to DONE.
+#      change the above TO DO to DONE.
 # ----------------------------------------------------------------------
 
 import math
